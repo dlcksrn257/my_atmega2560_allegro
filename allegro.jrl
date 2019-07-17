@@ -1431,4 +1431,13 @@
 \i (02:04:49) zoom in 1 
 \i (02:04:49) setwindow pcb
 \i (02:04:49) zoom in 9.194 2.327
-\i (
+\i (02:04:49) trapsize 43
+\i (02:04:50) zoom in 1 
+\i (02:04:50) setwindow pcb
+\i (02:04:50) zoom in 8.254 1.969
+\i (02:04:50) trapsize 21
+\i (02:04:55) save_as 
+\i (02:04:59) fillin "my_atmega2560_2.dra"
+\t (02:05:01) Symbol 'my_atmega2560_2.psm' created.
+\i (02:13:57) exit 
+\t (02:13:58)     Journal end - Wed Jul 17 11:54:40 2019
