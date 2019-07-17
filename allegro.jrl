@@ -1,0 +1,1434 @@
+\t (01:33:07) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (01:33:07)     Journal start - Wed Jul 17 11:13:49 2019
+\t (01:33:07)         Host=DESKTOP-0CCQGI6 User=user Pid=8300 CPUs=4
+\t (01:33:07) CmdLine= allegro.exe -p .
+\t (01:33:07) 
+\d (01:33:07) Design opened: C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560.dra
+\i (01:33:09) zoom in 1 
+\i (01:33:09) setwindow pcb
+\i (01:33:09) zoom in -5.550 5.692
+\i (01:33:09) trapsize 85
+\i (01:33:09) zoom in 1 
+\i (01:33:09) setwindow pcb
+\i (01:33:09) zoom in -5.550 5.692
+\i (01:33:09) trapsize 43
+\i (01:33:11) zoom out 1 
+\i (01:33:11) setwindow pcb
+\i (01:33:11) zoom out -6.395 5.863
+\i (01:33:11) trapsize 85
+\i (01:33:11) zoom out 1 
+\i (01:33:11) setwindow pcb
+\i (01:33:11) zoom out -2.126 6.204
+\i (01:33:11) trapsize 171
+\i (01:33:12) zoom in 1 
+\i (01:33:12) setwindow pcb
+\i (01:33:12) zoom in 3.945 5.112
+\i (01:33:12) trapsize 85
+\i (01:33:12) zoom in 1 
+\i (01:33:12) setwindow pcb
+\i (01:33:12) zoom in 4.253 5.112
+\i (01:33:12) trapsize 43
+\i (01:33:13) zoom out 1 
+\i (01:33:13) setwindow pcb
+\i (01:33:13) zoom out 6.217 4.941
+\i (01:33:13) trapsize 85
+\i (01:33:27) new 
+\i (01:33:36) newdrawfillin "my_atmega2560.dra" "Package Symbol (Wizard)"
+\t (01:33:36) Starting new design...
+\i (01:33:36) trapsize 370
+\i (01:33:36) trapsize 370
+\i (01:33:36) package symbol wizard 
+\i (01:33:37) setwindow form.sym_wizard
+\i (01:33:37) FORM sym_wizard plcc YES 
+\i (01:33:38) FORM sym_wizard wiz_next  
+\i (01:33:39) FORM sym_wizard load_template  
+\t (01:33:39) Opening existing design...
+\i (01:33:40) fillin yes 
+\t (01:33:40) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (01:33:40) setwindow pcb
+\i (01:33:40) trapsize 238
+\d (01:33:40) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (01:33:41) setwindow form.sym_wizard
+\i (01:33:41) FORM sym_wizard wiz_next  
+\i (01:33:43) FORM sym_wizard pack_units Millimeter 
+\i (01:33:44) FORM sym_wizard pack_units_create Millimeter 
+\i (01:33:45) FORM sym_wizard wiz_next  
+\i (01:33:49) FORM sym_wizard qfp_pin_count_v 16 
+\i (01:33:51) FORM sym_wizard qfp_pin_count_h 16 
+\i (01:33:54) FORM sym_wizard qfp_e 0.800 
+\i (01:33:54) FORM sym_wizard wiz_next  
+\i (01:34:00) FORM sym_wizard qfp_width 14.000 
+\i (01:34:03) FORM sym_wizard qfp_len 14.000 
+\i (01:34:14) FORM sym_wizard qfp_e1 15.000 
+\i (01:34:15) FORM sym_wizard qfp_e2 15.000 
+\i (01:34:15) FORM sym_wizard wiz_next  
+\i (01:34:17) FORM sym_wizard default_pad_browse  
+\i (01:34:20) fillin "My_Atmega2560"
+\i (01:34:21) FORM sym_wizard wiz_next  
+\i (01:34:22) FORM sym_wizard wiz_next  
+\i (01:34:23) FORM sym_wizard wiz_finish  
+\w (01:34:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:34:23) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (01:34:23) setwindow pcb
+\i (01:34:23) trapsize 6048
+\t (01:34:23) Performing DRC...
+\t (01:34:23) No DRC errors detected.
+\w (01:34:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (01:34:23) trapsize 6048
+\i (01:34:23) trapsize 854
+\i (01:34:23) trapsize 171
+\i (01:34:23) trapsize 171
+\i (01:34:24) fillin yes 
+\i (01:34:25) fillin yes 
+\t (01:34:25) Creating package symbol 'C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560.psm'.
+\t (01:34:25) Starting Create symbol...
+\i (01:34:27) zoom in 1 
+\i (01:34:27) setwindow pcb
+\i (01:34:27) zoom in -4.658 1.302
+\i (01:34:27) trapsize 85
+\i (01:34:27) zoom in 1 
+\i (01:34:27) setwindow pcb
+\i (01:34:27) zoom in -5.170 1.063
+\i (01:34:27) trapsize 43
+\i (01:34:28) zoom in 1 
+\i (01:34:28) setwindow pcb
+\i (01:34:28) zoom in -5.460 0.986
+\i (01:34:28) trapsize 21
+\i (01:34:28) zoom out 1 
+\i (01:34:28) setwindow pcb
+\i (01:34:28) zoom out -6.557 1.140
+\i (01:34:28) trapsize 43
+\i (01:34:29) zoom out 1 
+\i (01:34:29) setwindow pcb
+\i (01:34:29) zoom out -6.625 1.192
+\i (01:34:29) trapsize 85
+\i (01:34:29) zoom out 1 
+\i (01:34:29) setwindow pcb
+\i (01:34:29) zoom out -6.592 1.602
+\i (01:34:29) trapsize 171
+\i (01:34:29) zoom out 1 
+\i (01:34:29) setwindow pcb
+\i (01:34:29) zoom out -15.824 1.601
+\i (01:34:29) trapsize 342
+\i (01:34:31) zoom in 1 
+\i (01:34:31) setwindow pcb
+\i (01:34:31) zoom in -7.730 5.011
+\i (01:34:31) trapsize 171
+\i (01:34:31) zoom in 1 
+\i (01:34:31) setwindow pcb
+\i (01:34:31) zoom in -16.986 5.045
+\i (01:34:31) trapsize 85
+\i (01:34:31) zoom in 1 
+\i (01:34:31) setwindow pcb
+\i (01:34:31) zoom in -7.901 4.465
+\i (01:34:31) trapsize 43
+\i (01:34:32) zoom out 1 
+\i (01:34:32) setwindow pcb
+\i (01:34:32) zoom out -8.832 5.865
+\i (01:34:32) trapsize 85
+\i (01:34:32) zoom out 1 
+\i (01:34:32) setwindow pcb
+\i (01:34:32) zoom out -12.453 7.933
+\i (01:34:32) trapsize 171
+\i (01:34:33) new 
+\e (01:34:33) Do you want to save the changes you made to C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560.dra?
+\i (01:34:35) fillin yes 
+\t (01:34:35) Symbol 'my_atmega2560.psm' created.
+\i (01:34:45) newdrawfillin "my_atmega2560.dra" "Package Symbol (Wizard)"
+\t (01:34:45) Starting new design...
+\i (01:34:45) trapsize 382
+\i (01:34:45) trapsize 382
+\i (01:34:45) package symbol wizard 
+\i (01:34:47) setwindow form.sym_wizard
+\i (01:34:47) FORM sym_wizard bga YES 
+\i (01:35:18) FORM sym_wizard plcc YES 
+\i (01:35:19) FORM sym_wizard wiz_next  
+\i (01:35:27) FORM sym_wizard cancel  
+\i (01:37:30) setwindow pcb
+\i (01:37:30) zoom in 1 
+\i (01:37:30) setwindow pcb
+\i (01:37:30) zoom in 22.731 23.783
+\i (01:37:30) trapsize 191
+\i (01:37:30) zoom in 1 
+\i (01:37:30) setwindow pcb
+\i (01:37:30) zoom in -4.180 24.356
+\i (01:37:30) trapsize 95
+\i (01:37:31) zoom out 1 
+\i (01:37:31) setwindow pcb
+\i (01:37:31) zoom out -9.142 24.509
+\i (01:37:31) trapsize 191
+\i (01:37:31) zoom out 1 
+\i (01:37:31) setwindow pcb
+\i (01:37:31) zoom out -10.669 21.379
+\i (01:37:31) trapsize 382
+\i (01:37:31) zoom out 1 
+\i (01:37:31) setwindow pcb
+\i (01:37:31) zoom out 5.096 19.202
+\i (01:37:31) trapsize 382
+\i (01:37:31) zoom out 1 
+\i (01:37:31) setwindow pcb
+\i (01:37:31) zoom out 5.096 19.202
+\i (01:37:31) trapsize 382
+\i (01:37:31) zoom out 1 
+\i (01:37:31) setwindow pcb
+\i (01:37:31) zoom out 5.096 19.202
+\i (01:37:31) trapsize 382
+\i (01:37:34) open 
+\e (01:37:34) Do you want to save the changes you made to my_atmega2560.dra?
+\i (01:37:37) fillin no 
+\i (01:37:43) fillin "my_atmega2560.dra"
+\t (01:37:43) Opening existing design...
+\i (01:37:43) trapsize 171
+\d (01:37:43) Design opened: C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560.dra
+\i (01:37:44) zoom in 1 
+\i (01:37:44) setwindow pcb
+\i (01:37:44) zoom in 7.298 0.726
+\i (01:37:44) trapsize 85
+\i (01:37:45) zoom out 1 
+\i (01:37:45) setwindow pcb
+\i (01:37:45) zoom out 7.845 1.751
+\i (01:37:45) trapsize 171
+\i (01:37:46) zoom out 1 
+\i (01:37:46) setwindow pcb
+\i (01:37:46) zoom out 10.338 4.381
+\i (01:37:46) trapsize 342
+\i (01:37:47) zoom in 1 
+\i (01:37:47) setwindow pcb
+\i (01:37:47) zoom in -0.147 7.060
+\i (01:37:47) trapsize 171
+\i (01:37:51) replace padstack 
+\i (01:37:55) pick grid 6.171 7.367
+\t (01:37:55) last pick:  5.080 7.620
+\i (01:37:56) setwindow form.mini
+\i (01:37:56) FORM mini newname_browse  
+\i (01:38:00) fillin "My_Atmega2560"
+\w (01:38:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (01:38:01) FORM mini replace  
+\i (01:38:06) setwindow pcb
+\i (01:38:06) zoom in 1 
+\i (01:38:06) setwindow pcb
+\i (01:38:06) zoom in 9.006 5.625
+\i (01:38:06) trapsize 85
+\i (01:38:13) zoom in 1 
+\i (01:38:13) setwindow pcb
+\i (01:38:13) zoom in 7.845 5.745
+\i (01:38:13) trapsize 43
+\i (01:38:13) zoom in 1 
+\i (01:38:13) setwindow pcb
+\i (01:38:13) zoom in 7.845 5.745
+\i (01:38:13) trapsize 21
+\i (01:38:38) zoom out 1 
+\i (01:38:38) setwindow pcb
+\i (01:38:38) zoom out 7.994 5.643
+\i (01:38:38) trapsize 43
+\i (01:38:39) zoom out 1 
+\i (01:38:39) setwindow pcb
+\i (01:38:39) zoom out 7.593 5.898
+\i (01:38:39) trapsize 85
+\i (01:38:44) zoom out 1 
+\i (01:38:44) setwindow pcb
+\i (01:38:44) zoom out 8.959 6.309
+\i (01:38:44) trapsize 171
+\i (01:38:46) zoom in 1 
+\i (01:38:46) setwindow pcb
+\i (01:38:46) zoom in -1.753 -8.411
+\i (01:38:46) trapsize 85
+\i (01:38:46) zoom in 1 
+\i (01:38:46) setwindow pcb
+\i (01:38:46) zoom in -1.650 -7.506
+\i (01:38:46) trapsize 43
+\i (01:38:54) zoom out 1 
+\i (01:38:54) setwindow pcb
+\i (01:38:54) zoom out -1.539 -6.447
+\i (01:38:54) trapsize 85
+\i (01:38:54) zoom out 1 
+\i (01:38:54) setwindow pcb
+\i (01:38:54) zoom out -1.523 -6.448
+\i (01:38:54) trapsize 171
+\i (01:38:54) zoom out 1 
+\i (01:38:54) setwindow pcb
+\i (01:38:54) zoom out -0.421 -6.481
+\i (01:38:54) trapsize 342
+\i (01:38:55) zoom in 1 
+\i (01:38:55) setwindow pcb
+\i (01:38:55) zoom in 3.610 -0.060
+\i (01:38:55) trapsize 171
+\i (01:38:55) zoom in 1 
+\i (01:38:55) setwindow pcb
+\i (01:38:55) zoom in -11.384 0.555
+\i (01:38:55) trapsize 85
+\i (01:38:56) zoom out 1 
+\i (01:38:56) setwindow pcb
+\i (01:38:56) zoom out -7.098 0.606
+\i (01:38:56) trapsize 171
+\i (01:42:45) new 
+\t (01:42:45) Performing DRC...
+\t (01:42:45) No DRC errors detected.
+\e (01:42:45) Do you want to save the changes you made to my_atmega2560.dra?
+\i (01:42:47) fillin yes 
+\t (01:42:48) Symbol 'my_atmega2560.psm' created.
+\i (01:42:56) newdrawfillin "my_atmega2560.dra" "Package Symbol (Wizard)"
+\t (01:42:56) Starting new design...
+\i (01:42:56) trapsize 382
+\i (01:42:56) trapsize 382
+\i (01:42:56) package symbol wizard 
+\i (01:42:57) setwindow form.sym_wizard
+\i (01:42:57) FORM sym_wizard soic YES 
+\i (01:42:57) FORM sym_wizard plcc YES 
+\i (01:42:58) FORM sym_wizard wiz_next  
+\i (01:43:00) FORM sym_wizard load_template  
+\t (01:43:00) Opening existing design...
+\i (01:43:00) fillin yes 
+\t (01:43:00) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (01:43:00) setwindow pcb
+\i (01:43:00) trapsize 238
+\d (01:43:01) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (01:43:01) setwindow form.sym_wizard
+\i (01:43:01) FORM sym_wizard wiz_next  
+\i (01:43:03) FORM sym_wizard pack_units Millimeter 
+\i (01:43:04) FORM sym_wizard pack_units_create Millimeter 
+\i (01:43:05) FORM sym_wizard wiz_next  
+\i (01:43:07) FORM sym_wizard qfp_pin_count_v 16 
+\i (01:43:14) FORM sym_wizard qfp_pin_count_h 16 
+\i (01:43:14) FORM sym_wizard qfp_pin1_corner YES 
+\e (01:43:23) Must be a real number.
+\i (01:43:34) FORM sym_wizard qfp_e 0.800 
+\i (01:43:34) FORM sym_wizard wiz_next  
+\i (01:43:37) FORM sym_wizard qfp_width 14.000 
+\i (01:43:45) FORM sym_wizard qfp_len 14.000 
+\i (01:43:49) FORM sym_wizard qfp_e1 15.500 
+\i (01:43:52) FORM sym_wizard qfp_e2 15.500 
+\i (01:43:52) FORM sym_wizard wiz_next  
+\i (01:43:53) FORM sym_wizard default_pad_browse  
+\i (01:43:57) fillin "My_Atmega2560"
+\i (01:43:58) FORM sym_wizard wiz_next  
+\i (01:43:59) FORM sym_wizard wiz_next  
+\i (01:44:00) FORM sym_wizard wiz_finish  
+\w (01:44:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:44:00) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (01:44:00) setwindow pcb
+\i (01:44:00) trapsize 6048
+\t (01:44:00) Performing DRC...
+\t (01:44:00) No DRC errors detected.
+\w (01:44:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (01:44:00) trapsize 6048
+\i (01:44:00) trapsize 854
+\i (01:44:00) trapsize 171
+\i (01:44:00) trapsize 171
+\i (01:44:01) fillin yes 
+\i (01:44:03) fillin yes 
+\t (01:44:03) Creating package symbol 'C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560.psm'.
+\t (01:44:03) Starting Create symbol...
+\i (01:44:06) zoom in 1 
+\i (01:44:06) setwindow pcb
+\i (01:44:06) zoom in -6.273 3.161
+\i (01:44:06) trapsize 85
+\i (01:44:06) zoom in 1 
+\i (01:44:06) setwindow pcb
+\i (01:44:06) zoom in -6.273 3.161
+\i (01:44:06) trapsize 43
+\i (01:44:06) zoom out 1 
+\i (01:44:06) setwindow pcb
+\i (01:44:06) zoom out -7.118 3.161
+\i (01:44:06) trapsize 85
+\i (01:44:07) zoom out 1 
+\i (01:44:07) setwindow pcb
+\i (01:44:07) zoom out -6.965 3.349
+\i (01:44:07) trapsize 171
+\i (01:44:13) trapsize 527
+\i (01:44:14) trapsize 171
+\i (01:44:16) new 
+\e (01:44:16) Do you want to save the changes you made to C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560.dra?
+\i (01:44:18) fillin yes 
+\t (01:44:19) Symbol 'my_atmega2560.psm' created.
+\i (01:44:24) newdrawfillin "my_atmega2560.dra" "Package Symbol (Wizard)"
+\t (01:44:24) Starting new design...
+\i (01:44:24) trapsize 397
+\i (01:44:24) trapsize 397
+\i (01:44:24) package symbol wizard 
+\i (01:44:25) setwindow form.sym_wizard
+\i (01:44:25) FORM sym_wizard plcc YES 
+\i (01:44:26) FORM sym_wizard bga YES 
+\i (01:44:26) FORM sym_wizard plcc YES 
+\i (01:44:27) FORM sym_wizard wiz_next  
+\i (01:44:28) FORM sym_wizard load_template  
+\t (01:44:28) Opening existing design...
+\i (01:44:29) fillin yes 
+\t (01:44:29) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (01:44:29) setwindow pcb
+\i (01:44:29) trapsize 238
+\d (01:44:29) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (01:44:30) setwindow form.sym_wizard
+\i (01:44:30) FORM sym_wizard wiz_next  
+\i (01:44:31) FORM sym_wizard pack_units Millimeter 
+\i (01:44:33) FORM sym_wizard pack_units_create Millimeter 
+\i (01:44:33) FORM sym_wizard wiz_next  
+\i (01:44:37) FORM sym_wizard qfp_pin_count_v 16 
+\i (01:44:38) FORM sym_wizard qfp_pin_count_h 16 
+\i (01:44:38) FORM sym_wizard qfp_pin1_corner YES 
+\i (01:44:43) FORM sym_wizard qfp_e 0.800 
+\i (01:44:43) FORM sym_wizard wiz_next  
+\i (01:45:03) FORM sym_wizard qfp_width 14.000 
+\i (01:45:05) FORM sym_wizard qfp_len 14.000 
+\i (01:45:05) FORM sym_wizard wiz_back  
+\i (01:45:13) FORM sym_wizard wiz_next  
+\i (01:45:24) FORM sym_wizard qfp_e1 15.000 
+\i (01:45:25) FORM sym_wizard qfp_e2 15.000 
+\i (01:45:43) FORM sym_wizard wiz_next  
+\i (01:45:44) FORM sym_wizard default_pad_browse  
+\i (01:45:50) fillin "My_Atmega2560"
+\i (01:45:51) FORM sym_wizard wiz_next  
+\i (01:45:52) FORM sym_wizard wiz_next  
+\i (01:45:53) FORM sym_wizard wiz_back  
+\i (01:45:55) FORM sym_wizard wiz_next  
+\i (01:45:56) FORM sym_wizard wiz_back  
+\i (01:45:56) FORM sym_wizard wiz_back  
+\i (01:45:56) FORM sym_wizard wiz_back  
+\i (01:45:57) FORM sym_wizard wiz_back  
+\i (01:45:58) FORM sym_wizard wiz_next  
+\i (01:45:58) FORM sym_wizard wiz_next  
+\i (01:45:59) FORM sym_wizard wiz_next  
+\i (01:45:59) FORM sym_wizard wiz_next  
+\i (01:46:00) FORM sym_wizard wiz_finish  
+\w (01:46:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:46:00) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (01:46:00) setwindow pcb
+\i (01:46:00) trapsize 6048
+\t (01:46:00) Performing DRC...
+\t (01:46:00) No DRC errors detected.
+\w (01:46:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (01:46:00) trapsize 6048
+\i (01:46:00) trapsize 854
+\i (01:46:00) trapsize 171
+\i (01:46:00) trapsize 171
+\i (01:46:01) fillin yes 
+\i (01:46:02) fillin yes 
+\t (01:46:02) Creating package symbol 'C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560.psm'.
+\t (01:46:02) Starting Create symbol...
+\i (01:46:04) zoom in 1 
+\i (01:46:04) setwindow pcb
+\i (01:46:04) zoom in -6.766 5.844
+\i (01:46:04) trapsize 85
+\i (01:46:05) zoom in 1 
+\i (01:46:05) setwindow pcb
+\i (01:46:05) zoom in -6.765 5.844
+\i (01:46:05) trapsize 43
+\i (01:46:05) zoom in 1 
+\i (01:46:05) setwindow pcb
+\i (01:46:05) zoom in -6.765 5.844
+\i (01:46:05) trapsize 21
+\i (01:46:06) zoom out 1 
+\i (01:46:06) setwindow pcb
+\i (01:46:06) zoom out -6.761 5.845
+\i (01:46:06) trapsize 43
+\i (01:46:06) zoom out 1 
+\i (01:46:06) setwindow pcb
+\i (01:46:06) zoom out -9.211 7.168
+\i (01:46:06) trapsize 85
+\i (01:46:10) save_as 
+\i (01:46:14) fillin "my_atmega2560.dra"
+\t (01:46:15) Symbol 'my_atmega2560.psm' created.
+\i (01:46:29) zoom in 1 
+\i (01:46:29) setwindow pcb
+\i (01:46:29) zoom in -8.323 5.067
+\i (01:46:29) trapsize 43
+\i (01:46:29) zoom in 1 
+\i (01:46:29) setwindow pcb
+\i (01:46:29) zoom in -8.237 5.281
+\i (01:46:29) trapsize 21
+\i (01:46:30) zoom out 1 
+\i (01:46:30) setwindow pcb
+\i (01:46:30) zoom out -7.840 5.191
+\i (01:46:30) trapsize 43
+\i (01:46:30) zoom out 1 
+\i (01:46:30) setwindow pcb
+\i (01:46:30) zoom out -7.567 5.157
+\i (01:46:30) trapsize 85
+\i (01:46:31) zoom in 1 
+\i (01:46:31) setwindow pcb
+\i (01:46:31) zoom in -7.004 5.756
+\i (01:46:31) trapsize 43
+\i (01:46:32) zoom in 1 
+\i (01:46:32) setwindow pcb
+\i (01:46:32) zoom in -7.056 5.876
+\i (01:46:32) trapsize 21
+\i (01:46:38) zoom in 1 
+\i (01:46:38) setwindow pcb
+\i (01:46:38) zoom in -7.546 5.919
+\i (01:46:38) trapsize 11
+\i (01:46:39) zoom in 1 
+\i (01:46:39) setwindow pcb
+\i (01:46:39) zoom in -7.463 5.888
+\i (01:46:39) trapsize 5
+\i (01:46:39) zoom out 1 
+\i (01:46:39) setwindow pcb
+\i (01:46:39) zoom out -7.445 5.874
+\i (01:46:39) trapsize 11
+\i (01:46:40) zoom out 1 
+\i (01:46:40) setwindow pcb
+\i (01:46:40) zoom out -7.650 5.863
+\i (01:46:40) trapsize 21
+\i (01:46:40) zoom out 1 
+\i (01:46:40) setwindow pcb
+\i (01:46:40) zoom out -7.418 5.872
+\i (01:46:40) trapsize 43
+\i (01:46:42) zoom out 1 
+\i (01:46:42) setwindow pcb
+\i (01:46:42) zoom out -7.103 5.948
+\i (01:46:42) trapsize 85
+\i (01:46:43) zoom out 1 
+\i (01:46:43) setwindow pcb
+\i (01:46:43) zoom out -4.798 5.642
+\i (01:46:43) trapsize 171
+\i (01:46:48) zoom in 1 
+\i (01:46:48) setwindow pcb
+\i (01:46:48) zoom in -14.283 -1.839
+\i (01:46:48) trapsize 85
+\i (01:46:48) zoom in 1 
+\i (01:46:48) setwindow pcb
+\i (01:46:48) zoom in -12.079 -1.104
+\i (01:46:48) trapsize 43
+\i (01:46:49) zoom out 1 
+\i (01:46:49) setwindow pcb
+\i (01:46:49) zoom out -9.227 -1.002
+\i (01:46:49) trapsize 85
+\i (01:46:49) zoom out 1 
+\i (01:46:49) setwindow pcb
+\i (01:46:49) zoom out -8.920 -1.121
+\i (01:46:49) trapsize 171
+\i (01:46:50) zoom in 1 
+\i (01:46:50) setwindow pcb
+\i (01:46:50) zoom in -4.480 0.656
+\i (01:46:50) trapsize 85
+\i (01:47:39) zoom in 1 
+\i (01:47:39) setwindow pcb
+\i (01:47:39) zoom in -4.890 3.696
+\i (01:47:39) trapsize 43
+\i (01:47:39) zoom in 1 
+\i (01:47:39) setwindow pcb
+\i (01:47:39) zoom in -4.813 3.705
+\i (01:47:39) trapsize 21
+\i (01:47:39) zoom in 1 
+\i (01:47:39) setwindow pcb
+\i (01:47:39) zoom in -4.732 3.723
+\i (01:47:39) trapsize 11
+\i (01:47:39) zoom in 1 
+\i (01:47:39) setwindow pcb
+\i (01:47:39) zoom in -4.644 3.736
+\i (01:47:39) trapsize 5
+\i (01:47:39) zoom in 1 
+\i (01:47:39) setwindow pcb
+\i (01:47:39) zoom in -4.578 3.742
+\i (01:47:39) trapsize 3
+\i (01:47:40) zoom in 1 
+\i (01:47:40) setwindow pcb
+\i (01:47:40) zoom in -4.561 3.744
+\i (01:47:40) trapsize 1
+\i (01:47:40) zoom out 1 
+\i (01:47:40) setwindow pcb
+\i (01:47:40) zoom out -4.593 3.765
+\i (01:47:40) trapsize 3
+\i (01:47:40) zoom out 1 
+\i (01:47:40) setwindow pcb
+\i (01:47:40) zoom out -4.625 3.756
+\i (01:47:40) trapsize 5
+\i (01:47:40) zoom out 1 
+\i (01:47:40) setwindow pcb
+\i (01:47:40) zoom out -4.630 3.751
+\i (01:47:40) trapsize 11
+\i (01:47:40) zoom out 1 
+\i (01:47:40) setwindow pcb
+\i (01:47:40) zoom out -4.638 3.745
+\i (01:47:40) trapsize 21
+\i (01:47:41) zoom out 1 
+\i (01:47:41) setwindow pcb
+\i (01:47:41) zoom out -5.244 3.369
+\i (01:47:41) trapsize 43
+\i (01:47:41) zoom out 1 
+\i (01:47:41) setwindow pcb
+\i (01:47:41) zoom out -6.669 3.302
+\i (01:47:41) trapsize 85
+\i (01:47:41) zoom out 1 
+\i (01:47:41) setwindow pcb
+\i (01:47:41) zoom out -6.687 3.216
+\i (01:47:41) trapsize 171
+\i (01:47:42) zoom in 1 
+\i (01:47:42) setwindow pcb
+\i (01:47:42) zoom in -0.382 4.275
+\i (01:47:42) trapsize 85
+\i (01:47:45) replace padstack 
+\i (01:47:47) pick grid 8.020 2.687
+\t (01:47:47) last pick:  7.620 2.540
+\i (01:47:48) setwindow form.mini
+\i (01:47:48) FORM mini oldname_browse  
+\i (01:47:49) fillin "menu_cancel"
+\i (01:47:50) FORM mini newname_browse  
+\i (01:47:55) fillin "My_Atmega2560"
+\w (01:47:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (01:47:57) FORM mini replace  
+\i (01:47:59) FORM mini replace  
+\i (01:48:00) setwindow pcb
+\i (01:48:00) zoom in 1 
+\i (01:48:00) setwindow pcb
+\i (01:48:00) zoom in 7.371 2.004
+\i (01:48:00) trapsize 43
+\i (01:48:00) zoom in 1 
+\i (01:48:00) setwindow pcb
+\i (01:48:00) zoom in 7.380 2.030
+\i (01:48:00) trapsize 21
+\i (01:48:05) zoom out 1 
+\i (01:48:05) setwindow pcb
+\i (01:48:05) zoom out 8.089 2.188
+\i (01:48:05) trapsize 43
+\i (01:48:05) zoom out 1 
+\i (01:48:05) setwindow pcb
+\i (01:48:05) zoom out 6.585 2.291
+\i (01:48:05) trapsize 85
+\i (01:48:10) new 
+\t (01:48:10) Performing DRC...
+\t (01:48:10) No DRC errors detected.
+\e (01:48:10) Do you want to save the changes you made to C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560.dra?
+\i (01:48:12) fillin yes 
+\t (01:48:13) Symbol 'my_atmega2560.psm' created.
+\i (01:48:20) newdrawfillin "my_atmega2560.dra" "Package Symbol (Wizard)"
+\t (01:48:20) Starting new design...
+\i (01:48:20) trapsize 386
+\i (01:48:20) trapsize 386
+\i (01:48:20) package symbol wizard 
+\i (01:48:21) setwindow form.sym_wizard
+\i (01:48:21) FORM sym_wizard plcc YES 
+\i (01:48:22) FORM sym_wizard wiz_next  
+\i (01:48:23) FORM sym_wizard load_template  
+\t (01:48:23) Opening existing design...
+\i (01:48:24) fillin yes 
+\t (01:48:24) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (01:48:24) setwindow pcb
+\i (01:48:24) trapsize 238
+\d (01:48:24) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (01:48:24) setwindow form.sym_wizard
+\i (01:48:24) FORM sym_wizard wiz_next  
+\i (01:48:26) FORM sym_wizard pack_units Millimeter 
+\i (01:48:27) FORM sym_wizard pack_units_create Millimeter 
+\i (01:48:28) FORM sym_wizard wiz_next  
+\i (01:48:31) FORM sym_wizard qfp_pin_count_v 16 
+\i (01:48:33) FORM sym_wizard qfp_pin_count_h 16 
+\i (01:48:33) FORM sym_wizard qfp_pin1_corner YES 
+\i (01:48:36) FORM sym_wizard qfp_e 0.800 
+\i (01:48:36) FORM sym_wizard wiz_next  
+\i (01:48:46) FORM sym_wizard qfp_e1 14.800 
+\i (01:48:47) FORM sym_wizard qfp_e2 14.800 
+\i (01:48:48) FORM sym_wizard qfp_width 14.000 
+\i (01:48:49) FORM sym_wizard qfp_len 14.000 
+\i (01:48:49) FORM sym_wizard wiz_next  
+\i (01:48:51) FORM sym_wizard default_pad_browse  
+\i (01:48:55) fillin "My_Atmega2560"
+\i (01:48:56) FORM sym_wizard wiz_next  
+\i (01:48:57) FORM sym_wizard wiz_back  
+\i (01:48:57) FORM sym_wizard wiz_back  
+\i (01:48:58) FORM sym_wizard wiz_back  
+\i (01:48:58) FORM sym_wizard wiz_next  
+\i (01:48:59) FORM sym_wizard wiz_next  
+\i (01:48:59) FORM sym_wizard wiz_next  
+\i (01:48:59) FORM sym_wizard wiz_next  
+\i (01:49:00) FORM sym_wizard wiz_finish  
+\w (01:49:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:49:00) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (01:49:00) setwindow pcb
+\i (01:49:00) trapsize 6048
+\t (01:49:00) Performing DRC...
+\t (01:49:00) No DRC errors detected.
+\w (01:49:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (01:49:00) trapsize 6048
+\i (01:49:00) trapsize 854
+\i (01:49:00) trapsize 171
+\i (01:49:00) trapsize 171
+\i (01:49:01) fillin yes 
+\i (01:49:02) fillin yes 
+\t (01:49:02) Creating package symbol 'C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560.psm'.
+\t (01:49:02) Starting Create symbol...
+\i (01:49:03) zoom in 1 
+\i (01:49:03) setwindow pcb
+\i (01:49:03) zoom in -7.182 5.653
+\i (01:49:03) trapsize 85
+\i (01:49:04) zoom in 1 
+\i (01:49:04) setwindow pcb
+\i (01:49:04) zoom in -7.182 5.654
+\i (01:49:04) trapsize 43
+\i (01:49:09) zoom in 1 
+\i (01:49:09) setwindow pcb
+\i (01:49:09) zoom in -7.591 4.425
+\i (01:49:09) trapsize 21
+\i (01:49:09) zoom in 1 
+\i (01:49:09) setwindow pcb
+\i (01:49:09) zoom in -7.590 4.425
+\i (01:49:09) trapsize 11
+\i (01:49:15) zoom out 1 
+\i (01:49:15) setwindow pcb
+\i (01:49:15) zoom out -7.629 4.342
+\i (01:49:15) trapsize 21
+\i (01:49:15) zoom out 1 
+\i (01:49:15) setwindow pcb
+\i (01:49:15) zoom out -7.359 4.393
+\i (01:49:15) trapsize 43
+\i (01:49:20) new 
+\e (01:49:20) Do you want to save the changes you made to C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560.dra?
+\i (01:49:24) fillin yes 
+\t (01:49:25) Symbol 'my_atmega2560.psm' created.
+\i (01:49:32) newdrawfillin "my_atmega2560.dra" "Package Symbol (Wizard)"
+\t (01:49:32) Starting new design...
+\i (01:49:32) trapsize 381
+\i (01:49:32) trapsize 381
+\i (01:49:32) package symbol wizard 
+\i (01:49:33) setwindow form.sym_wizard
+\i (01:49:33) FORM sym_wizard bga YES 
+\i (01:49:34) FORM sym_wizard plcc YES 
+\i (01:49:35) FORM sym_wizard soic YES 
+\i (01:49:35) FORM sym_wizard plcc YES 
+\i (01:49:36) FORM sym_wizard soic YES 
+\i (01:49:37) FORM sym_wizard plcc YES 
+\i (01:49:38) FORM sym_wizard rca_th YES 
+\i (01:49:38) FORM sym_wizard plcc YES 
+\i (01:49:40) FORM sym_wizard wiz_next  
+\i (01:49:41) FORM sym_wizard load_template  
+\t (01:49:41) Opening existing design...
+\i (01:49:42) fillin yes 
+\t (01:49:42) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (01:49:42) setwindow pcb
+\i (01:49:42) trapsize 238
+\d (01:49:42) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (01:49:43) setwindow form.sym_wizard
+\i (01:49:43) FORM sym_wizard wiz_next  
+\i (01:49:45) FORM sym_wizard pack_units Millimeter 
+\i (01:49:46) FORM sym_wizard pack_units_create Millimeter 
+\i (01:49:47) FORM sym_wizard wiz_next  
+\i (01:49:48) FORM sym_wizard qfp_pin1_corner YES 
+\i (01:49:50) FORM sym_wizard qfp_pin_count_v 16 
+\i (01:49:53) FORM sym_wizard qfp_pin_count_h 16 
+\i (01:49:56) FORM sym_wizard qfp_e 0.800 
+\i (01:49:56) FORM sym_wizard wiz_next  
+\i (01:49:58) FORM sym_wizard qfp_width 14.000 
+\i (01:49:59) FORM sym_wizard qfp_len 14.000 
+\i (01:50:01) FORM sym_wizard qfp_e1 14.800 
+\i (01:50:04) FORM sym_wizard qfp_e2 14.800 
+\i (01:50:04) FORM sym_wizard wiz_next  
+\i (01:50:05) FORM sym_wizard default_pad_browse  
+\i (01:50:09) fillin "My_Atmega2560"
+\i (01:50:10) FORM sym_wizard wiz_next  
+\i (01:50:10) FORM sym_wizard wiz_next  
+\i (01:50:11) FORM sym_wizard wiz_finish  
+\w (01:50:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:50:11) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (01:50:11) setwindow pcb
+\i (01:50:11) trapsize 6048
+\t (01:50:11) Performing DRC...
+\t (01:50:11) No DRC errors detected.
+\w (01:50:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (01:50:11) trapsize 6048
+\i (01:50:11) trapsize 854
+\i (01:50:11) trapsize 171
+\i (01:50:11) trapsize 171
+\i (01:50:12) fillin yes 
+\i (01:50:13) fillin yes 
+\t (01:50:13) Creating package symbol 'C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560.psm'.
+\t (01:50:13) Starting Create symbol...
+\i (01:50:14) zoom in 1 
+\i (01:50:14) setwindow pcb
+\i (01:50:14) zoom in 7.913 6.200
+\i (01:50:14) trapsize 85
+\i (01:50:15) zoom in 1 
+\i (01:50:15) setwindow pcb
+\i (01:50:15) zoom in 8.358 6.080
+\i (01:50:15) trapsize 43
+\i (01:50:26) zoom in 1 
+\i (01:50:26) setwindow pcb
+\i (01:50:26) zoom in 8.324 6.012
+\i (01:50:26) trapsize 21
+\i (01:50:27) zoom in 1 
+\i (01:50:27) setwindow pcb
+\i (01:50:27) zoom in 8.196 5.858
+\i (01:50:27) trapsize 11
+\i (01:50:28) zoom out 1 
+\i (01:50:28) setwindow pcb
+\i (01:50:28) zoom out 7.686 5.793
+\i (01:50:28) trapsize 21
+\i (01:51:33) vertex 
+\i (01:51:34) pick grid 7.004 6.992
+\t (01:51:34) last pick:  7.620 7.620
+\t (01:51:34) last pick:  7.000 7.000
+\i (01:51:38) prepopup 6.547 6.424
+\i (01:51:38) cancel 
+\i (01:52:00) new 
+\e (01:52:00) Do you want to save the changes you made to C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560.dra?
+\i (01:52:01) fillin yes 
+\t (01:52:02) Symbol 'my_atmega2560.psm' created.
+\i (01:52:11) newdrawfillin "my_atmega2560.dra" "Package Symbol (Wizard)"
+\t (01:52:11) Starting new design...
+\i (01:52:11) trapsize 381
+\i (01:52:11) trapsize 381
+\i (01:52:11) package symbol wizard 
+\i (01:52:12) setwindow form.sym_wizard
+\i (01:52:12) FORM sym_wizard plcc YES 
+\i (01:52:13) FORM sym_wizard bga YES 
+\i (01:52:13) FORM sym_wizard plcc YES 
+\i (01:52:14) FORM sym_wizard wiz_next  
+\i (01:52:15) FORM sym_wizard load_template  
+\t (01:52:15) Opening existing design...
+\i (01:52:16) fillin yes 
+\t (01:52:16) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (01:52:16) setwindow pcb
+\i (01:52:16) trapsize 238
+\d (01:52:16) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (01:52:17) setwindow form.sym_wizard
+\i (01:52:17) FORM sym_wizard wiz_next  
+\i (01:52:18) FORM sym_wizard pack_units Millimeter 
+\i (01:52:19) FORM sym_wizard pack_units_create Millimeter 
+\i (01:52:20) FORM sym_wizard wiz_next  
+\i (01:52:22) FORM sym_wizard qfp_pin_count_v 16 
+\i (01:52:23) FORM sym_wizard qfp_pin_count_h 16 
+\i (01:52:23) FORM sym_wizard qfp_pin1_corner YES 
+\i (01:52:24) FORM sym_wizard wiz_next  
+\i (01:52:25) FORM sym_wizard wiz_back  
+\i (01:52:28) FORM sym_wizard qfp_e 0.800 
+\i (01:52:28) FORM sym_wizard wiz_next  
+\i (01:52:36) FORM sym_wizard qfp_e1 15.000 
+\i (01:52:37) FORM sym_wizard qfp_e2 15.000 
+\i (01:52:37) FORM sym_wizard qfp_width 141.000 
+\i (01:52:39) FORM sym_wizard qfp_len 14.000 
+\i (01:52:42) FORM sym_wizard qfp_width 14.000 
+\i (01:52:42) FORM sym_wizard wiz_next  
+\i (01:52:43) FORM sym_wizard default_pad_browse  
+\i (01:52:46) fillin "My_Atmega2560"
+\i (01:52:47) FORM sym_wizard wiz_next  
+\i (01:52:47) FORM sym_wizard wiz_next  
+\i (01:52:48) FORM sym_wizard wiz_finish  
+\w (01:52:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:52:48) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (01:52:48) setwindow pcb
+\i (01:52:48) trapsize 6048
+\t (01:52:48) Performing DRC...
+\t (01:52:48) No DRC errors detected.
+\w (01:52:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (01:52:48) trapsize 6048
+\i (01:52:48) trapsize 854
+\i (01:52:48) trapsize 171
+\i (01:52:48) trapsize 171
+\i (01:52:49) fillin yes 
+\i (01:52:50) fillin yes 
+\t (01:52:50) Creating package symbol 'C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560.psm'.
+\t (01:52:50) Starting Create symbol...
+\i (01:52:52) zoom in 1 
+\i (01:52:52) setwindow pcb
+\i (01:52:52) zoom in 6.792 2.941
+\i (01:52:52) trapsize 85
+\i (01:52:52) zoom in 1 
+\i (01:52:52) setwindow pcb
+\i (01:52:52) zoom in 6.981 3.044
+\i (01:52:52) trapsize 43
+\i (01:52:53) zoom in 1 
+\i (01:52:53) setwindow pcb
+\i (01:52:53) zoom in 7.997 2.831
+\i (01:52:53) trapsize 21
+\i (01:52:56) setwindow form.mini
+\i (01:52:56) FORM mini subclass ASSEMBLY_DETAIL 
+\i (01:52:57) FORM mini subclass ASSEMBLY_NOTES 
+\i (01:53:00) FORM mini subclass SILKSCREEN_TOP 
+\i (01:53:02) setwindow pcb
+\i (01:53:02) zoom out 1 
+\i (01:53:02) setwindow pcb
+\i (01:53:02) zoom out 7.605 2.768
+\i (01:53:02) trapsize 43
+\i (01:53:03) zoom out 1 
+\i (01:53:03) setwindow pcb
+\i (01:53:03) zoom out 6.871 2.921
+\i (01:53:03) trapsize 85
+\i (01:53:08) zoom in 1 
+\i (01:53:08) setwindow pcb
+\i (01:53:08) zoom in 8.971 2.357
+\i (01:53:08) trapsize 43
+\i (01:53:21) save_as 
+\i (01:53:26) fillin "my_atmega2560.dra"
+\t (01:53:27) Symbol 'my_atmega2560.psm' created.
+\i (01:53:39) setwindow form.vf_vis
+\i (01:53:39) FORM vf_vis all_colorvisible NO 
+\i (01:53:40) FORM vf_vis all_colorvisible YES 
+\i (01:53:41) FORM vf_vis all_colorvisible NO 
+\i (01:53:43) setwindow form.mini
+\i (01:53:43) FORM mini subclass ASSEMBLY_TOP 
+\i (01:53:45) setwindow form.vf_vis
+\i (01:53:45) FORM vf_vis all_colorvisible YES 
+\i (01:53:45) FORM vf_vis all_colorvisible NO 
+\i (01:53:46) FORM vf_vis all_colorvisible YES 
+\i (01:53:48) FORM vf_vis all_colorvisible NO 
+\i (01:53:48) FORM vf_vis all_colorvisible YES 
+\i (01:53:51) setwindow form.mini
+\i (01:53:51) FORM mini subclass SILKSCREEN_TOP 
+\i (01:53:52) setwindow form.vf_vis
+\i (01:53:52) FORM vf_vis all_colorvisible NO 
+\i (01:53:53) FORM vf_vis all_colorvisible YES 
+\i (01:53:53) FORM vf_vis all_colorvisible NO 
+\i (01:53:58) FORM vf_vis all_colorvisible YES 
+\i (01:54:01) FORM vf_vis all_colorvisible NO 
+\i (01:54:06) setwindow pcb
+\i (01:54:06) new 
+\i (01:54:14) newdrawfillin "my_atmega2560.dra" "Package Symbol (Wizard)"
+\t (01:54:14) Starting new design...
+\i (01:54:14) trapsize 386
+\i (01:54:15) trapsize 386
+\i (01:54:15) package symbol wizard 
+\i (01:54:16) setwindow form.sym_wizard
+\i (01:54:16) FORM sym_wizard plcc YES 
+\i (01:54:16) FORM sym_wizard bga YES 
+\i (01:54:17) FORM sym_wizard plcc YES 
+\i (01:54:18) FORM sym_wizard wiz_next  
+\i (01:54:19) FORM sym_wizard load_template  
+\t (01:54:19) Opening existing design...
+\i (01:54:20) fillin yes 
+\t (01:54:20) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (01:54:20) setwindow pcb
+\i (01:54:20) trapsize 238
+\d (01:54:20) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (01:54:21) setwindow form.sym_wizard
+\i (01:54:21) FORM sym_wizard wiz_next  
+\i (01:54:22) FORM sym_wizard pack_units Millimeter 
+\i (01:54:24) FORM sym_wizard pack_units_create Millimeter 
+\i (01:54:24) FORM sym_wizard wiz_next  
+\i (01:54:27) FORM sym_wizard qfp_pin_count_v 16 
+\i (01:54:29) FORM sym_wizard qfp_pin_count_h 16 
+\i (01:54:29) FORM sym_wizard qfp_pin1_corner YES 
+\i (01:54:33) FORM sym_wizard qfp_e 0.800 
+\i (01:54:38) FORM sym_wizard wiz_next  
+\i (01:54:40) FORM sym_wizard qfp_e1 15.000 
+\i (01:54:41) FORM sym_wizard qfp_e2 15.000 
+\i (01:54:41) FORM sym_wizard qfp_width 14.000 
+\i (01:54:47) FORM sym_wizard qfp_len 14.000 
+\i (01:54:47) FORM sym_wizard wiz_next  
+\i (01:54:48) FORM sym_wizard default_pad_browse  
+\i (01:54:51) fillin "My_Atmega2560"
+\i (01:54:52) FORM sym_wizard wiz_next  
+\i (01:54:54) FORM sym_wizard wiz_next  
+\i (01:54:55) FORM sym_wizard wiz_finish  
+\w (01:54:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:54:55) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (01:54:55) setwindow pcb
+\i (01:54:55) trapsize 6048
+\t (01:54:55) Performing DRC...
+\t (01:54:55) No DRC errors detected.
+\w (01:54:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (01:54:55) trapsize 6048
+\i (01:54:55) trapsize 854
+\i (01:54:55) trapsize 171
+\i (01:54:55) trapsize 171
+\i (01:54:56) fillin yes 
+\i (01:54:57) fillin yes 
+\t (01:54:57) Creating package symbol 'C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560.psm'.
+\t (01:54:57) Starting Create symbol...
+\i (01:54:59) zoom in 1 
+\i (01:54:59) setwindow pcb
+\i (01:54:59) zoom in 7.100 0.379
+\i (01:54:59) trapsize 85
+\i (01:54:59) zoom in 1 
+\i (01:54:59) setwindow pcb
+\i (01:54:59) zoom in 7.101 0.380
+\i (01:54:59) trapsize 43
+\i (01:54:59) zoom in 1 
+\i (01:54:59) setwindow pcb
+\i (01:54:59) zoom in 7.101 0.397
+\i (01:54:59) trapsize 21
+\i (01:55:05) setwindow form.vf_vis
+\i (01:55:05) FORM vf_vis all_colorvisible YES 
+\i (01:55:05) FORM vf_vis all_colorvisible NO 
+\i (01:55:06) FORM vf_vis all_colorvisible YES 
+\i (01:55:06) FORM vf_vis all_colorvisible NO 
+\i (01:55:07) FORM vf_vis all_colorvisible YES 
+\i (01:55:07) FORM vf_vis all_colorvisible NO 
+\i (01:55:08) FORM vf_vis all_colorvisible YES 
+\i (01:55:08) FORM vf_vis all_colorvisible NO 
+\i (01:55:08) FORM vf_vis all_colorvisible YES 
+\i (01:55:08) FORM vf_vis all_colorvisible NO 
+\i (01:55:09) FORM vf_vis all_colorvisible YES 
+\i (01:55:09) FORM vf_vis all_colorvisible NO 
+\i (01:55:10) FORM vf_vis all_colorvisible YES 
+\i (01:55:10) FORM vf_vis all_colorvisible NO 
+\i (01:55:10) FORM vf_vis all_colorvisible YES 
+\i (01:55:11) FORM vf_vis all_colorvisible NO 
+\i (01:55:11) FORM vf_vis all_colorvisible YES 
+\i (01:55:11) FORM vf_vis all_colorvisible NO 
+\i (01:55:12) FORM vf_vis all_colorvisible YES 
+\i (01:55:12) FORM vf_vis all_colorvisible NO 
+\i (01:55:12) FORM vf_vis all_colorvisible YES 
+\i (01:55:13) FORM vf_vis all_colorvisible NO 
+\i (01:55:13) FORM vf_vis all_colorvisible YES 
+\i (01:55:13) FORM vf_vis all_colorvisible NO 
+\i (01:55:14) FORM vf_vis all_colorvisible YES 
+\i (01:55:14) FORM vf_vis all_colorvisible NO 
+\i (01:55:14) FORM vf_vis all_colorvisible YES 
+\i (01:55:15) FORM vf_vis all_colorvisible NO 
+\i (01:55:16) FORM vf_vis all_colorvisible YES 
+\i (01:55:19) FORM vf_vis all_colorvisible NO 
+\i (01:55:23) setwindow pcb
+\i (01:55:23) new 
+\e (01:55:23) Do you want to save the changes you made to C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560.dra?
+\i (01:55:24) fillin yes 
+\t (01:55:25) Symbol 'my_atmega2560.psm' created.
+\i (01:55:36) newdrawfillin "my_atmega2560_2.dra" "Package Symbol (Wizard)"
+\t (01:55:36) Starting new design...
+\i (01:55:36) trapsize 386
+\i (01:55:36) trapsize 386
+\i (01:55:37) package symbol wizard 
+\i (01:55:38) setwindow form.sym_wizard
+\i (01:55:38) FORM sym_wizard plcc YES 
+\i (01:55:38) FORM sym_wizard bga YES 
+\i (01:55:39) FORM sym_wizard plcc YES 
+\i (01:55:40) FORM sym_wizard wiz_next  
+\i (01:55:41) FORM sym_wizard use_custom_template YES 
+\i (01:55:41) FORM sym_wizard no_custom_template YES 
+\i (01:55:42) FORM sym_wizard load_template  
+\t (01:55:42) Opening existing design...
+\i (01:55:43) fillin yes 
+\t (01:55:43) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (01:55:43) setwindow pcb
+\i (01:55:43) trapsize 238
+\d (01:55:43) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (01:55:44) setwindow form.sym_wizard
+\i (01:55:44) FORM sym_wizard wiz_next  
+\i (01:55:45) FORM sym_wizard pack_units Millimeter 
+\i (01:55:47) FORM sym_wizard pack_units_create Micron 
+\i (01:55:48) FORM sym_wizard wiz_next  
+\i (01:55:50) FORM sym_wizard qfp_pin_count_v 16 
+\i (01:55:52) FORM sym_wizard qfp_pin_count_h 16 
+\i (01:55:52) FORM sym_wizard qfp_pin1_corner YES 
+\i (01:55:54) FORM sym_wizard qfp_e 0.800 
+\i (01:55:54) FORM sym_wizard wiz_next  
+\i (01:55:57) FORM sym_wizard wiz_back  
+\i (01:56:00) FORM sym_wizard wiz_next  
+\i (01:56:03) FORM sym_wizard qfp_e2 15.000 
+\i (01:56:04) FORM sym_wizard qfp_e1 15.000 
+\i (01:56:05) FORM sym_wizard qfp_width 14.000 
+\i (01:56:06) FORM sym_wizard qfp_len 14.000 
+\i (01:56:06) FORM sym_wizard wiz_next  
+\i (01:56:08) FORM sym_wizard default_pad_browse  
+\i (01:56:12) fillin "My_Atmega2560"
+\i (01:56:13) FORM sym_wizard wiz_next  
+\i (01:56:13) FORM sym_wizard wiz_next  
+\i (01:56:14) FORM sym_wizard wiz_finish  
+\w (01:56:14) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:56:14) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (01:56:14) setwindow pcb
+\i (01:56:14) trapsize 6048
+\t (01:56:14) Performing DRC...
+\t (01:56:14) No DRC errors detected.
+\w (01:56:14) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (01:56:14) trapsize 6048
+\i (01:56:14) trapsize 854
+\i (01:56:14) trapsize 171
+\i (01:56:14) trapsize 171
+\i (01:56:14) trapsize 171
+\t (01:56:14) Performing DRC...
+\t (01:56:14) No DRC errors detected.
+\t (01:56:14) Creating package symbol 'C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560_2.psm'.
+\t (01:56:14) Starting Create symbol...
+\i (01:56:16) zoom in 1 
+\i (01:56:16) setwindow pcb
+\i (01:56:16) zoom in 6690 4136
+\i (01:56:16) trapsize 85
+\i (01:56:16) zoom in 1 
+\i (01:56:16) setwindow pcb
+\i (01:56:16) zoom in 6623 4153
+\i (01:56:16) trapsize 43
+\i (01:56:17) zoom in 1 
+\i (01:56:17) setwindow pcb
+\i (01:56:17) zoom in 6981 4495
+\i (01:56:17) trapsize 21
+\i (01:56:21) setwindow form.vf_vis
+\i (01:56:21) FORM vf_vis all_via_visible NO 
+\i (01:56:21) FORM vf_vis all_pin_visible NO 
+\i (01:56:23) FORM vf_vis all_drc_visible NO 
+\i (01:56:23) FORM vf_vis all_drc_visible YES 
+\i (01:56:24) FORM vf_vis all_pin_visible YES 
+\i (01:56:24) FORM vf_vis all_via_visible YES 
+\i (01:56:32) FORM vf_vis colorview_list Last View 
+\i (01:56:38) setwindow pcb
+\i (01:56:38) prmed 
+\i (01:56:39) setwindow form.prmedit
+\i (01:56:39) FORM prmedit display_plated_holes YES 
+\i (01:56:40) FORM prmedit display_non_plated_holes YES 
+\i (01:56:40) FORM prmedit display_enhance YES 
+\i (01:56:41) FORM prmedit display_endcaps YES 
+\i (01:56:41) FORM prmedit display_endcaps NO 
+\i (01:56:41) FORM prmedit display_endcaps YES 
+\i (01:56:41) FORM prmedit display_thermal YES 
+\i (01:56:42) FORM prmedit display_fat_rats YES 
+\i (01:56:42) FORM prmedit waived_drc_on YES 
+\i (01:56:43) FORM prmedit display_org NO 
+\i (01:56:43) FORM prmedit via_labels YES 
+\i (01:56:43) FORM prmedit display_org YES 
+\i (01:56:43) FORM prmedit dp_driver_pins YES 
+\i (01:56:44) FORM prmedit secondary_step_model YES 
+\i (01:56:45) FORM prmedit done  
+\i (01:56:48) setwindow pcb
+\i (01:56:48) zoom in 1 
+\i (01:56:48) setwindow pcb
+\i (01:56:48) zoom in 8044 3530
+\i (01:56:48) trapsize 11
+\i (01:56:48) zoom in 1 
+\i (01:56:48) setwindow pcb
+\i (01:56:48) zoom in 8045 3531
+\i (01:56:48) trapsize 5
+\i (01:56:48) zoom in 1 
+\i (01:56:48) setwindow pcb
+\i (01:56:48) zoom in 8045 3531
+\i (01:56:48) trapsize 3
+\i (01:56:48) zoom in 1 
+\i (01:56:48) setwindow pcb
+\i (01:56:48) zoom in 8045 3531
+\i (01:56:48) trapsize 1
+\i (01:56:48) zoom in 1 
+\i (01:56:48) setwindow pcb
+\i (01:56:48) zoom in 8045 3532
+\i (01:56:48) trapsize 1
+\i (01:56:49) zoom in 1 
+\i (01:56:49) setwindow pcb
+\i (01:56:49) zoom in 8045 3532
+\i (01:56:49) trapsize 1
+\i (01:56:49) zoom in 1 
+\i (01:56:49) setwindow pcb
+\i (01:56:49) zoom in 8045 3533
+\i (01:56:49) trapsize 1
+\i (01:56:49) zoom out 1 
+\i (01:56:49) setwindow pcb
+\i (01:56:49) zoom out 8045 3533
+\i (01:56:49) trapsize 1
+\i (01:56:49) zoom out 1 
+\i (01:56:49) setwindow pcb
+\i (01:56:49) zoom out 8045 3533
+\i (01:56:49) trapsize 1
+\i (01:56:49) zoom out 1 
+\i (01:56:49) setwindow pcb
+\i (01:56:49) zoom out 8045 3533
+\i (01:56:49) trapsize 1
+\i (01:56:50) zoom out 1 
+\i (01:56:50) setwindow pcb
+\i (01:56:50) zoom out 8050 3539
+\i (01:56:50) trapsize 3
+\i (01:56:50) zoom out 1 
+\i (01:56:50) setwindow pcb
+\i (01:56:50) zoom out 8049 3540
+\i (01:56:50) trapsize 5
+\i (01:56:50) zoom out 1 
+\i (01:56:50) setwindow pcb
+\i (01:56:50) zoom out 8050 3539
+\i (01:56:50) trapsize 11
+\i (01:56:53) zoom out 1 
+\i (01:56:53) setwindow pcb
+\i (01:56:53) zoom out 7474 3615
+\i (01:56:53) trapsize 22
+\i (01:56:53) zoom out 1 
+\i (01:56:53) setwindow pcb
+\i (01:56:53) zoom out 7474 3616
+\i (01:56:53) trapsize 43
+\i (01:56:53) zoom out 1 
+\i (01:56:53) setwindow pcb
+\i (01:56:53) zoom out 7475 3616
+\i (01:56:53) trapsize 86
+\i (01:57:38) replace padstack 
+\i (01:57:39) pick grid 7596 6081
+\t (01:57:39) last pick:  7620 5080
+\i (01:57:40) setwindow form.mini
+\i (01:57:40) FORM mini newname_browse  
+\i (01:57:44) fillin "My_Atmega2560"
+\w (01:57:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (01:57:48) FORM mini replace  
+\i (01:57:49) setwindow pcb
+\i (01:57:49) zoom in 1 
+\i (01:57:49) setwindow pcb
+\i (01:57:49) zoom in 7440 5340
+\i (01:57:49) trapsize 43
+\i (01:57:49) zoom in 1 
+\i (01:57:49) setwindow pcb
+\i (01:57:49) zoom in 7587 5512
+\i (01:57:49) trapsize 22
+\i (01:58:04) zoom out 1 
+\i (01:58:04) setwindow pcb
+\i (01:58:04) zoom out 7277 5159
+\i (01:58:04) trapsize 43
+\i (01:58:05) zoom in 1 
+\i (01:58:05) setwindow pcb
+\i (01:58:05) zoom in 5751 6632
+\i (01:58:05) trapsize 22
+\i (01:58:06) zoom out 1 
+\i (01:58:06) setwindow pcb
+\i (01:58:06) zoom out 5889 6697
+\i (01:58:06) trapsize 43
+\i (01:58:07) zoom out 1 
+\i (01:58:07) setwindow pcb
+\i (01:58:07) zoom out 6906 6568
+\i (01:58:07) trapsize 86
+\i (01:58:25) zoom out 1 
+\i (01:58:25) setwindow pcb
+\i (01:58:25) zoom out 7716 5276
+\i (01:58:25) trapsize 172
+\i (01:58:26) zoom in 1 
+\i (01:58:26) setwindow pcb
+\i (01:58:26) zoom in 7483 3346
+\i (01:58:26) trapsize 86
+\i (01:58:27) zoom in 1 
+\i (01:58:27) setwindow pcb
+\i (01:58:27) zoom in 6949 4225
+\i (01:58:27) trapsize 43
+\i (01:58:28) zoom out 1 
+\i (01:58:28) setwindow pcb
+\i (01:58:28) zoom out 6880 4337
+\i (01:58:28) trapsize 86
+\i (01:58:30) zoom in 1 
+\i (01:58:30) setwindow pcb
+\i (01:58:30) zoom in -5514 7492
+\i (01:58:30) trapsize 43
+\i (01:58:31) zoom in 1 
+\i (01:58:31) setwindow pcb
+\i (01:58:31) zoom in -5575 7501
+\i (01:58:31) trapsize 22
+\i (01:58:31) zoom out 1 
+\i (01:58:31) setwindow pcb
+\i (01:58:31) zoom out -5531 7449
+\i (01:58:31) trapsize 43
+\i (01:58:31) zoom out 1 
+\i (01:58:31) setwindow pcb
+\i (01:58:31) zoom out -5531 7450
+\i (01:58:31) trapsize 86
+\i (01:58:36) zoom in 1 
+\i (01:58:36) setwindow pcb
+\i (01:58:36) zoom in -8307 2519
+\i (01:58:36) trapsize 43
+\i (01:58:39) zoom in 1 
+\i (01:58:39) setwindow pcb
+\i (01:58:39) zoom in -7902 4304
+\i (01:58:39) trapsize 22
+\i (01:58:40) zoom in 1 
+\i (01:58:40) setwindow pcb
+\i (01:58:40) zoom in -7893 4291
+\i (01:58:40) trapsize 11
+\i (01:58:57) save_as 
+\t (01:58:57) Performing DRC...
+\t (01:58:57) No DRC errors detected.
+\i (01:59:01) fillin "my_atmega2560_2.dra"
+\t (01:59:06) Symbol 'my_atmega2560_2.psm' created.
+\i (01:59:29) zoom out 1 
+\i (01:59:29) setwindow pcb
+\i (01:59:29) zoom out -6559 3854
+\i (01:59:29) trapsize 22
+\i (01:59:29) zoom out 1 
+\i (01:59:29) setwindow pcb
+\i (01:59:29) zoom out -6520 3914
+\i (01:59:29) trapsize 43
+\i (01:59:29) zoom out 1 
+\i (01:59:29) setwindow pcb
+\i (01:59:29) zoom out -6184 4044
+\i (01:59:29) trapsize 86
+\i (01:59:31) zoom out 1 
+\i (01:59:31) setwindow pcb
+\i (01:59:31) zoom out -3099 4992
+\i (01:59:31) trapsize 172
+\i (01:59:35) replace padstack 
+\i (01:59:35) pick grid 7172 6371
+\t (01:59:35) last pick:  7620 7620
+\i (01:59:36) setwindow form.mini
+\i (01:59:36) FORM mini newname_browse  
+\i (01:59:40) fillin "My_Atmega2560"
+\w (01:59:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (01:59:42) FORM mini replace  
+\i (01:59:42) setwindow pcb
+\i (01:59:42) zoom in 1 
+\i (01:59:43) setwindow pcb
+\i (01:59:43) zoom in 8034 -2386
+\i (01:59:43) trapsize 86
+\i (01:59:43) zoom in 1 
+\i (01:59:43) setwindow pcb
+\i (01:59:43) zoom in 8034 -2403
+\i (01:59:43) trapsize 43
+\i (01:59:44) zoom in 1 
+\i (01:59:44) setwindow pcb
+\i (01:59:44) zoom in 8034 -2395
+\i (01:59:44) trapsize 22
+\i (01:59:47) zoom out 1 
+\i (01:59:47) setwindow pcb
+\i (01:59:47) zoom out 8005 -2149
+\i (01:59:48) trapsize 43
+\i (02:00:16) pick grid 5625 145
+\t (02:00:16) last pick:  5080 0
+\i (02:00:16) pick grid 7901 1153
+\t (02:00:16) last pick:  7620 0
+\i (02:00:17) setwindow form.mini
+\i (02:00:17) FORM mini newname_browse  
+\i (02:00:20) fillin "My_Atmega2560"
+\w (02:00:20) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (02:00:22) FORM mini replace  
+\i (02:00:23) setwindow pcb
+\i (02:00:23) zoom in 1 
+\i (02:00:23) setwindow pcb
+\i (02:00:23) zoom in 7513 -2588
+\i (02:00:23) trapsize 22
+\i (02:00:40) new 
+\t (02:00:40) Performing DRC...
+\t (02:00:40) No DRC errors detected.
+\e (02:00:40) Do you want to save the changes you made to C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560_2.dra?
+\i (02:00:42) fillin yes 
+\t (02:00:43) Symbol 'my_atmega2560_2.psm' created.
+\i (02:00:48) newdrawfillin "my_atmega2560_2.dra" "Package Symbol (Wizard)"
+\t (02:00:48) Starting new design...
+\i (02:00:48) trapsize 386
+\i (02:00:48) trapsize 386
+\i (02:00:48) package symbol wizard 
+\i (02:00:49) setwindow form.sym_wizard
+\i (02:00:49) FORM sym_wizard bga YES 
+\i (02:00:50) FORM sym_wizard plcc YES 
+\i (02:00:51) FORM sym_wizard wiz_next  
+\i (02:00:52) FORM sym_wizard load_template  
+\t (02:00:52) Opening existing design...
+\i (02:00:52) fillin yes 
+\t (02:00:53) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (02:00:53) setwindow pcb
+\i (02:00:53) trapsize 238
+\d (02:00:53) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (02:00:53) setwindow form.sym_wizard
+\i (02:00:53) FORM sym_wizard wiz_next  
+\i (02:00:56) FORM sym_wizard pack_units Centimeter 
+\i (02:00:58) FORM sym_wizard pack_units Millimeter 
+\i (02:00:59) FORM sym_wizard pack_units_create Millimeter 
+\i (02:01:01) FORM sym_wizard wiz_next  
+\i (02:01:05) FORM sym_wizard qfp_pin1_corner YES 
+\i (02:01:08) FORM sym_wizard qfp_pin_count_v 16 
+\i (02:01:09) FORM sym_wizard qfp_pin_count_h 16 
+\i (02:01:17) FORM sym_wizard qfp_e 1.000 
+\i (02:01:19) FORM sym_wizard wiz_next  
+\i (02:01:22) FORM sym_wizard qfp_e1 15.000 
+\i (02:01:23) FORM sym_wizard qfp_e2 15.000 
+\i (02:01:23) FORM sym_wizard qfp_width 14.000 
+\i (02:01:25) FORM sym_wizard qfp_len 14.000 
+\i (02:01:25) FORM sym_wizard wiz_next  
+\i (02:01:26) FORM sym_wizard default_pad_browse  
+\i (02:01:30) fillin "My_Atmega2560"
+\i (02:01:31) FORM sym_wizard wiz_next  
+\i (02:01:31) FORM sym_wizard wiz_next  
+\i (02:01:32) FORM sym_wizard wiz_finish  
+\w (02:01:32) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (02:01:32) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (02:01:32) setwindow pcb
+\i (02:01:32) trapsize 6048
+\t (02:01:32) Performing DRC...
+\t (02:01:32) No DRC errors detected.
+\w (02:01:32) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (02:01:32) trapsize 6048
+\i (02:01:32) trapsize 854
+\i (02:01:32) trapsize 171
+\i (02:01:32) trapsize 171
+\i (02:01:33) fillin yes 
+\i (02:01:33) fillin yes 
+\t (02:01:33) Creating package symbol 'C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560_2.psm'.
+\t (02:01:34) Starting Create symbol...
+\i (02:01:35) zoom in 1 
+\i (02:01:35) setwindow pcb
+\i (02:01:35) zoom in 7.350 -1.157
+\i (02:01:35) trapsize 85
+\i (02:01:35) zoom in 1 
+\i (02:01:35) setwindow pcb
+\i (02:01:35) zoom in 7.350 -1.157
+\i (02:01:35) trapsize 43
+\i (02:01:57) replace padstack 
+\i (02:01:58) pick grid 7.614 0.440
+\t (02:01:58) last pick:  7.620 0.000
+\i (02:02:00) setwindow form.mini
+\i (02:02:00) FORM mini newname_browse  
+\i (02:02:04) fillin "My_Atmega2560"
+\w (02:02:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (02:02:05) FORM mini replace  
+\i (02:02:21) setwindow pcb
+\i (02:02:21) zoom out 1 
+\i (02:02:21) setwindow pcb
+\i (02:02:21) zoom out 9.117 -1.694
+\i (02:02:21) trapsize 85
+\i (02:02:22) zoom out 1 
+\i (02:02:22) setwindow pcb
+\i (02:02:22) zoom out 7.786 -1.677
+\i (02:02:22) trapsize 171
+\i (02:02:22) zoom in 1 
+\i (02:02:22) setwindow pcb
+\i (02:02:22) zoom in 6.838 -0.687
+\i (02:02:22) trapsize 85
+\i (02:02:22) zoom in 1 
+\i (02:02:22) setwindow pcb
+\i (02:02:22) zoom in 6.838 -0.465
+\i (02:02:22) trapsize 43
+\i (02:02:23) zoom out 1 
+\i (02:02:23) setwindow pcb
+\i (02:02:23) zoom out 7.273 -0.593
+\i (02:02:23) trapsize 85
+\i (02:02:30) save_as 
+\t (02:02:30) Performing DRC...
+\t (02:02:30) DRC done; 4 errors detected.
+\i (02:02:34) fillin "my_atmega2560_2.dra"
+\t (02:02:35) Symbol 'my_atmega2560_2.psm' created.
+\i (02:03:02) save_as 
+\i (02:03:04) fillin "my_atmega2560_2.dra"
+\t (02:03:05) Symbol 'my_atmega2560_2.psm' created.
+\i (02:03:44) new 
+\i (02:03:50) newdrawfillin "my_atmega2560_2.dra" "Package Symbol (Wizard)"
+\t (02:03:50) Starting new design...
+\i (02:03:50) trapsize 385
+\i (02:03:50) trapsize 385
+\i (02:03:50) package symbol wizard 
+\i (02:03:51) setwindow form.sym_wizard
+\i (02:03:51) FORM sym_wizard bga YES 
+\i (02:03:52) FORM sym_wizard plcc YES 
+\i (02:03:53) FORM sym_wizard wiz_next  
+\i (02:03:54) FORM sym_wizard load_template  
+\t (02:03:54) Opening existing design...
+\i (02:03:55) fillin yes 
+\t (02:03:55) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (02:03:55) setwindow pcb
+\i (02:03:55) trapsize 238
+\d (02:03:55) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (02:03:56) setwindow form.sym_wizard
+\i (02:03:56) FORM sym_wizard wiz_next  
+\i (02:03:58) FORM sym_wizard pack_units Millimeter 
+\i (02:03:59) FORM sym_wizard pack_units_create Millimeter 
+\i (02:04:00) FORM sym_wizard wiz_next  
+\i (02:04:03) FORM sym_wizard qfp_pin_count_v 16 
+\i (02:04:05) FORM sym_wizard qfp_pin_count_h 16 
+\i (02:04:05) FORM sym_wizard qfp_pin1_corner YES 
+\i (02:04:24) FORM sym_wizard wiz_next  
+\i (02:04:28) FORM sym_wizard wiz_back  
+\i (02:04:32) FORM sym_wizard qfp_e 0.800 
+\i (02:04:32) FORM sym_wizard wiz_next  
+\i (02:04:35) FORM sym_wizard qfp_e1 15.000 
+\i (02:04:35) FORM sym_wizard qfp_e2 15.000 
+\i (02:04:35) FORM sym_wizard qfp_width 14.000 
+\i (02:04:37) FORM sym_wizard qfp_len 14.000 
+\i (02:04:37) FORM sym_wizard wiz_next  
+\i (02:04:38) FORM sym_wizard default_pad_browse  
+\i (02:04:41) fillin "My_Atmega2560"
+\i (02:04:42) FORM sym_wizard wiz_next  
+\i (02:04:44) FORM sym_wizard wiz_next  
+\i (02:04:46) FORM sym_wizard wiz_finish  
+\w (02:04:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (02:04:46) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (02:04:46) setwindow pcb
+\i (02:04:46) trapsize 6048
+\t (02:04:46) Performing DRC...
+\t (02:04:46) No DRC errors detected.
+\w (02:04:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (02:04:46) trapsize 6048
+\i (02:04:46) trapsize 854
+\i (02:04:46) trapsize 171
+\i (02:04:46) trapsize 171
+\i (02:04:47) fillin yes 
+\i (02:04:47) fillin yes 
+\t (02:04:47) Creating package symbol 'C:/Users/user/Desktop/vscode_orcad/workspace/my_atmega2560/my_atmega2560_2.psm'.
+\t (02:04:47) Starting Create symbol...
+\i (02:04:49) zoom in 1 
+\i (02:04:49) setwindow pcb
+\i (02:04:49) zoom in 9.347 2.155
+\i (02:04:49) trapsize 85
+\i (02:04:49) zoom in 1 
+\i (02:04:49) setwindow pcb
+\i (02:04:49) zoom in 9.194 2.327
+\i (
